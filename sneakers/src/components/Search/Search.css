@@ -1,0 +1,25 @@
+.search-catalog {
+    border-radius: 10px;
+    width: 250px;
+    padding: 15px 0px;
+    padding-left: 15px;
+    color: #cdcdcd;
+    outline: none;
+    border: none;
+}
+
+.search-catalog::placeholder {
+    color: #cdcdcd;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: 1px solid #EAEAEA;
+}
+
+.search svg {
+    cursor: pointer;
+}

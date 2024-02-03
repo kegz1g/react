@@ -1,0 +1,6 @@
+.catalog {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding-bottom: 50px;
+}
